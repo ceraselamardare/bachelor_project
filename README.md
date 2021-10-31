@@ -23,7 +23,8 @@ hyperparameters and pre-trained models.
 any image. The interface allows the user to upload any portrait image from their personal photo collection 
 and receive a textual description of it as a result.
 
-   
+![gui_final_crop](https://user-images.githubusercontent.com/93477871/139587791-f79261f4-1b90-4471-9dae-44358717b7ba.png)
+
    
 
 ###Datasets:
