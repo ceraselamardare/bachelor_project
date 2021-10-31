@@ -1,0 +1,17 @@
+venv
+celeb_faces
+exportToHTML
+first_try
+imdb_0
+imdb_db
+net_gender
+mat.py
+meta.csv
+meta_v2.csv
+output1.csv
+process_csv.py
+processed_meta.csv
+gender_age/save_models/
+gender_age/save_models_angle/
+gender_age/save_models_gender/
+gender_age/save_models_hair/
