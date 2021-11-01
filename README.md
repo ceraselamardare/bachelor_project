@@ -1,5 +1,5 @@
-#Bachelor degree project 
-##Automatic description of human faces in portrait images
+# Bachelor degree project 
+## Automatic description of human faces in portrait images
 
 This project aims to obtain a textual description, based on a
 portrait-type image, containing the gender, age, hair colour and the angle of orientation of the face of the person in the photograph.
@@ -7,7 +7,7 @@ This application was implemented by using four convolutional neural networks in 
 for each important feature of the human face, using the Keras and TensorFlow libraries of the 
 programming language.
 
-###The project followed the steps:
+### The project followed the steps:
 
 1. Two datasets (IMDB-WIKI and CelebA) of considerable size were found, accompanied by corresponding labels. The first step in implementation of the application was to clean the database by removing images that did not contain a face 
 human face. The images were then processed and the area of maximum interest, namely the human face, was cropped, using the face detection algorithm using the Haar feature-based cascaded classifiers from the OpenCv library.
@@ -27,6 +27,6 @@ and receive a textual description of it as a result.
 
    
 
-###Datasets:
+### Datasets:
 1. IMDB-WIKI https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 2. CelebA https://www.kaggle.com/jessicali9530/celeba-dataset
